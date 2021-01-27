@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TD3
 <<<<<<< HEAD
 
@@ -22,3 +23,13 @@ Coronavirus
 Coronavirus
 >>>>>>> alex
 >>>>>>> 1c6dcd77feed886f06c69728291052a68a32209f
+||||||| 503c4f2
+# TD3
+=======
+# TD3
+Ligne2 
+Ligne3
+Ligne4
+Ligne5
+Ligne6
+>>>>>>> Lea
